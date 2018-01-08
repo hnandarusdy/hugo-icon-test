@@ -1,9 +1,10 @@
 # Main config file for icon theme.
 theme = "hugo-icon"
-baseURL = "https://www.example.com/"
+baseurl = "https://hnandarusdy.github.io/hugo-icon-test/"
 languageCode = "en-AU"
 title = "My Awesome Title"
 publishDir = "docs"
+
 
 # Metadata
 [params]
