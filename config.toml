@@ -3,6 +3,7 @@ theme = "hugo-icon"
 baseURL = "https://www.example.com/"
 languageCode = "en-AU"
 title = "My Awesome Title"
+publishDir = "docs"
 
 # Metadata
 [params]
@@ -12,7 +13,7 @@ title = "My Awesome Title"
 # Hero section (from here on is for icon theme)
 [params.hero]
   img = "images/hero_bg.jpg"
-  title = "Create awesome things for better web"
+  title = "Create awesome things for better web TEST"
   description = "Lovingly hand-crafted by the fine folks at [FreeHTML5.co](http://freehtml5.co/)"
 
 # Navigation section
@@ -211,4 +212,3 @@ title = "My Awesome Title"
   vine = "#"
   linkedin = "#"
   instagram = "#"
-  
